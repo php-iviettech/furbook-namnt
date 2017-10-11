@@ -10,7 +10,7 @@ class User extends Authenticatable
     use Notifiable;
 
     /**
-     * The attrisad  asdas dsdads that are mass assignable.
+     * The attr  asdas dsdads that are mass assignable.
      *
      * @var array
      */
